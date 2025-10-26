@@ -1,5 +1,5 @@
 # PADATI-ASN
-Platform Agregator Data Talenta Indonesia (PADATI) dan Sistem Pendukung Keputusan Rekomendasi 
+Platform Agregator Data Talenta Indonesia (PADATI) dan Sistem Pendukung Keputusan Rekomendasi Talenta ASN
 
 ## Rancangan MVP Technical Specification (Revisi Stack Google Gratis/Firebase)
 
